@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-taskapp/static/css/main.973cfa3a.css",
+    "main.js": "/react-taskapp/static/js/main.4b6bfd4f.js",
+    "index.html": "/react-taskapp/index.html",
+    "main.973cfa3a.css.map": "/react-taskapp/static/css/main.973cfa3a.css.map",
+    "main.4b6bfd4f.js.map": "/react-taskapp/static/js/main.4b6bfd4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973cfa3a.css",
+    "static/js/main.4b6bfd4f.js"
+  ]
+}
